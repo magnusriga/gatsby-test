@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "gatsby-plugin-global-styles/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
